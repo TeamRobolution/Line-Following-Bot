@@ -1,0 +1,5 @@
+line following components :-
+TB6612FNG motor driver 
+N20 motors
+5-array IR line tracking sensor 
+Arduino nano
